@@ -10,5 +10,6 @@
   "description": "",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "repository": "https://github.com/sharun-gft/dev-env"
 }
